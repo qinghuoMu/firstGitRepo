@@ -4,4 +4,5 @@ hahahhahah
 Git has a mutable index called stage.changes of files.
  git create a new branch nameed branch
  git create a new branch nameed feature1 which is quick & simple.
+ git create a new branch nameed dev again
 

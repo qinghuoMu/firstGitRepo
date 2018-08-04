@@ -5,5 +5,9 @@ Git has a mutable index called stage.changes of files.
  git create a new branch nameed branch
  git create a new branch nameed feature1 which is quick & simple.
  git create a new branch nameed dev again
+<<<<<<< Updated upstream
  创建bug2分支
+=======
+ 创建bug分支 哈哈哈
+>>>>>>> Stashed changes
 
